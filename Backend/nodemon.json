@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "sabyVarghese",
+    "DB_PASSWORD": "0S9NCnxmblqWozCH",
+    "DB_NAME": "TravelDiary",
+    "JWT_KEY": "Thisismytestprotection@1231",
+    "MAP_API_TOKEN": "0ee6d83e4077c6"
+  }
+}

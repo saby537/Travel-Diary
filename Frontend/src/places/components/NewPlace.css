@@ -1,0 +1,9 @@
+.add-modal-line {
+  background-color: grey;
+  height: 3px;
+}
+.add-modal-btn {
+  padding-bottom: 0.5rem;
+  text-align: right;
+  padding-right: 0.5rem;
+}

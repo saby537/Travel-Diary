@@ -1,0 +1,20 @@
+.Slider {
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+  margin: auto;
+  overflow: hidden;
+  z-index: -1;
+}
+
+.SlideComponent {
+  position: relative;
+  height: 100vh;
+  display: flex;
+}
+
+.container {
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+}

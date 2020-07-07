@@ -1,0 +1,18 @@
+.parallax {
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0%;
+  width: 100vw;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;
+}
+
+.list {
+  position: absolute;
+  top: 10vh;
+  z-index: 0;
+}

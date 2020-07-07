@@ -1,0 +1,14 @@
+.place-list {
+  list-style: none;
+  padding: 0;
+  margin-top: 6rem;
+  display: flex;
+  flex-direction: row;
+}
+.place-slider {
+  position: absolute;
+  top: 12vh;
+  overflow: hidden;
+  width: 100vw;
+  margin: auto;
+}

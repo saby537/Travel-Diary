@@ -1,0 +1,68 @@
+.bottombar {
+  position: absolute;
+  top: 91vh;
+  width: 20vw;
+  left: 5vw;
+  display: flex;
+  flex-direction: row;
+  transition: 0.45;
+}
+.add-modal {
+  top: 5vh;
+}
+.add-modal-header {
+  padding: 0.25rem 0.5rem;
+}
+.add-modal-content {
+  padding: 0 0.5rem;
+}
+.add__modal-actions {
+  border-top: 2px solid rgb(160, 157, 157);
+  text-align: right;
+  padding: 0.5rem 0.5rem;
+}
+.no-footer {
+  display: none;
+}
+.bottombar img {
+  height: 50px;
+  width: 60px;
+  margin-top: 5px;
+  background-color: transparent;
+}
+
+.map {
+  margin-left: 20px;
+  width: 70px;
+  background-color: rgb(147, 229, 147);
+  border-radius: 5px;
+  text-align: center;
+}
+.add {
+  width: 70px;
+  background-color: rgb(31, 166, 207);
+  border-radius: 5px;
+  text-align: center;
+}
+
+.edit {
+  margin-left: 20px;
+  width: 70px;
+  background-color: rgb(199, 220, 226);
+  border-radius: 5px;
+  text-align: center;
+}
+
+.delete {
+  width: 70px;
+  margin-left: 20px;
+  background-color: rgb(253, 33, 33);
+  border-radius: 5px;
+  text-align: center;
+}
+
+.bottombar div:hover {
+  margin-top: -2vh;
+  height: 11vh;
+  cursor: pointer;
+}
